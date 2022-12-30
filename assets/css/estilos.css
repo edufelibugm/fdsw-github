@@ -4,6 +4,10 @@ body {
 
 /* Hero Section */
 
+button {
+  transition: all 0.5s ease-in-out;
+}
+
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
